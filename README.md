@@ -1,117 +1,77 @@
-<h1 align="center"><b>Hey , I'm Ahmed Mouin Bel Haj Mohamed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Ahmed Mouine Ben Hadj Mohamed</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Aziz+BenIsmail..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00C4FF&size=24&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;EPI+Digital+School+Student;MERN+%7C+TypeScript+%7C+Java;Always+learning+new+things!">
+  </a>
 </p>
 
-<!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<!-- Avatar -->
+<p align="center">
+  <img src="https://github.com/Mouinbhm.png" alt="Avatar" width="160" style="border-radius:50%">
+</p>
 
-<!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
-**About me**
+## 👨‍💻 About Me
 
-I'm Ahmed Mouin Bel Haj Mohamed, a Final-year student in computer engineering from Epi Digital School  in Tunisia 💻, I'm 26 years old.
-I am completely passionate about frontend backend development .
+- Final-year **Computer Engineering student** at **EPI Digital School** 🇹🇳  
+- Passionate about **full-stack development**, **software engineering**, and exploring new technologies  
+- Currently focusing on **MERN stack**, **TypeScript**, and **Java**  
+- Always open to collaboration and learning from other developers 🤝
 
-<!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 🌐 Connect With Me
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mouin--blhaj--mohamed--08a8a2256-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouin-blhaj-mohamed-08a8a2256/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006075794983&locale=en_GB)
+[![Email](https://img.shields.io/badge/Email-mouinbelhaj%40icloud.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mouinbelhaj@icloud.com)
 
-<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-25-blue" />
+![GitHub followers](https://img.shields.io/github/followers/Mouinbhm?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Mouinbhm)
 
+---
 
-<!-- Ligne  -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!-- TODO: Add last video link 
+## 🛠️ Tech Stack
 
+[![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=101010&logo=react&logoColor=61DBFB)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=101010&logo=javascript&logoColor=F7DF1E)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=101010&logo=typescript&logoColor=3178C6)]()
+[![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=101010&logo=node.js&logoColor=3C873A)]()
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=101010&logo=express&logoColor=FFFFFF)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=101010&logo=mongodb&logoColor=47A248)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=101010&logo=openjdk&logoColor=ED8B00)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=101010&logo=git&logoColor=F05032)]()
 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+---
 
-- 📫 How to reach me: mouinbelhaj@icloud.com
+## 🔥 GitHub Stats
 
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouinbhm&show_icons=true&layout=compact&langs_count=10&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mouinbhm&show_icons=true&theme=radical)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mouinbhm&theme=algolia" alt="streak"/>
+</p>
 
+---
 
-<!-- Skills  -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## 📌 Featured Projects
 
-<!-- TODO: Make technologies links takes you to repositories -->
+| Project | Tech Stack | Description |
+|---|---|---|
+| [SocialMedia_MERN_App](https://github.com/Mouinbhm/SocialMedia_MERN_App) | **MongoDB · Express · React · Node** | A social media web app with authentication using **JWT** and **bcrypt**, Express REST API, and React client. |
+| [LinkTun_APP](https://github.com/Mouinbhm/LinkTun_APP) | **Node.js · Express** | Modular backend structure (controllers/middleware/routes) for scalable REST APIs. |
+| [Car_Rental_FullStack_Project](https://github.com/Mouinbhm/Car_Rental_FullStack_Project) | **Full-stack** | Car rental web app with front–back integration and database connectivity. |
+| [MyHolidays.com](https://github.com/Mouinbhm/MyHolidays.com) | **TypeScript** | Travel and booking platform prototype built with TypeScript. |
+| [Memory_Game](https://github.com/Mouinbhm/Memory_Game) | **Java** | Classic memory matching game implemented in Java. |
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+---
 
-<!-- Github Stats   -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mouinbhm&theme=nord&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center" >
+---
 
-| Choose your language         | Flags                                                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
-
-Last Edited on: 03/09/2024
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
-  <div>
-  <samp>
-      <br/>
-            <p align="center">
-      </p>
-        <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AzizBenIsmail&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-    <br>
-
-## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
-
-<br>
-</details>
-
-
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+<p align="center">Credits: customized for <a href="https://github.com/Mouinbhm">Mouinbhm</a> • Last Updated: 31/10/2025</p>
