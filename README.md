@@ -20,7 +20,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mouin--blhaj--mohamed--08a8a2256-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouin-blhaj-mohamed-08a8a2256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mouin--blhaj--mohamed--08a8a2256-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mouin-blhaj-mohamed-08a8a2256)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006075794983&locale=en_GB)
 [![Email](https://img.shields.io/badge/Email-mouinbelhaj%40icloud.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mouinbelhaj@icloud.com)
 
